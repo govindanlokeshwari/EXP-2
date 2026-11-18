@@ -55,8 +55,12 @@ To conduct the open circuit and load test on a D.C. shunt generator and to obtai
 7. The motor is switched off using DPST switch 1 after bringing all the rheostats to their initial positions.
 
 ## CIRCUIT DIAGRAM
+open circuit characteristics:
+<img width="1337" height="515" alt="Screenshot 2026-11-18 125016" src="https://github.com/user-attachments/assets/4a33dd78-c31c-4eb2-acd1-9d8cd3cdbb48" />
 
-*[ Insert the circuit diagram here ]*
+load circuit characteristics:
+
+<img width="1367" height="760" alt="Screenshot 2026-11-18 124952" src="https://github.com/user-attachments/assets/a87d8ce5-ab85-4ee2-bb8e-138164bc8925" />
 
 **Figure 1:** Circuit diagram for OCC and load test of D.C. shunt generator
 
