@@ -2,7 +2,7 @@
 
 | **Name:** |G.Lokeshwari| **Reg. No.:** |26018135 |
 |---|---|---|---|
-| **Date:** |18/11/2026 | **Batch / Section:** ||
+| **Date:** |18/11/2026 | **Batch / Section:** | 26ODJ166|
 
 ---
 
