@@ -94,7 +94,8 @@ Perform the open circuit test and the load test in the Virtual Lab (IIT Roorkee)
 
 ### B. Load test
 
-<img width="360" height="433" alt="Screenshot 2026-11-18 024034" src="https://github.com/user-attachments/assets/2d81fb70-54d4-4d1c-a228-8719b60fb2e6" />
+<img width="415" height="466" alt="Screenshot 2026-11-19 125409" src="https://github.com/user-attachments/assets/d01a5d8c-4f40-453a-b60d-1ab4d5bd1354" />
+
 
 
 ## FORMULA
