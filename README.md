@@ -56,7 +56,9 @@ To conduct the open circuit and load test on a D.C. shunt generator and to obtai
 
 ## CIRCUIT DIAGRAM
 open circuit characteristics:
-<img width="1337" height="515" alt="Screenshot 2026-11-18 125016" src="https://github.com/user-attachments/assets/4a33dd78-c31c-4eb2-acd1-9d8cd3cdbb48" />
+
+<img width="1337" height="515" alt="Screenshot 2026-11-18 125016" src="https://github.com/user-attachments/assets/87044db2-aa08-4b75-8f0b-55e399d6d487" />
+
 
 load circuit characteristics:
 
